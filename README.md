@@ -185,8 +185,8 @@ sleep-stage-classification/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/vaibhavmistryyy/sleep-stage-classification.git
-cd sleep-stage-classification
+git clone https://github.com/vaibhavmistryyy/sleep-stage-classification-.git
+cd sleep-stage-classification-
 ```
 
 ### 2. Set Up Virtual Environment
@@ -245,7 +245,7 @@ python src/train.py \
 
 **Vaibhav Mistry**
 - **GitHub**: [@vaibhavmistryyy](https://github.com/vaibhavmistryyy)
-- **Project Repository**: [vaibhavmistryyy/sleep-stage-classification](https://github.com/vaibhavmistryyy/sleep-stage-classification)
+- **Project Repository**: [vaibhavmistryyy/sleep-stage-classification-](https://github.com/vaibhavmistryyy/sleep-stage-classification-)
 
 ---
 
